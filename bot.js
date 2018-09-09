@@ -156,4 +156,4 @@ if (level == -100) {
 }
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NDgyMzExMjQ0MjA0NzM2NTI1.DnbEFw.J5QOfPG9T_JYydWmOlqRVeNb5_c);
