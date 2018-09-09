@@ -1,8 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.channels.get(392029900430770176);
-
 var level;
 level = 0;
 var titre;
@@ -158,4 +156,4 @@ if (level == -100) {
 }
 
 
-client.login(BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
