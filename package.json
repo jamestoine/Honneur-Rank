@@ -1,0 +1,12 @@
+{
+"name": "honneur rank",
+"version": "0.0.1",
+"main": "bot.js",
+"script": { 
+"start": "node bot.js"
+},
+"dependencies": {
+"discord.js": "11.1.0",
+"request": "2.81.0"
+}
+}
